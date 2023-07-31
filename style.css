@@ -1,0 +1,33 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    background-image: url(Asset/Background\ Depan.jpeg);
+}
+
+.container {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 110px;
+    
+    
+}
+.card{
+
+    width: 300px;
+    color: white;
+    background: rgb(1,21,65);
+    background: linear-gradient(90deg, rgba(1,21,65,1) 8%, rgba(12,109,181,1) 73%);
+}
+
+button {
+    border: none;
+    background:none;
+    
+}
+
+i {
+    size: 40px;
+}

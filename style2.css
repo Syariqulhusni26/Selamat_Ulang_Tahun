@@ -1,0 +1,61 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    background-image: url(Asset/Background\ Depan.jpeg);
+    
+}
+
+.container {
+
+justify-content: center;
+}
+
+.col{
+    background: blue;
+    border-radius: 8px ;
+    border: 2px solid black;
+}
+span .card{
+    
+    margin-top: 600px;
+    width: 300px;
+    justify-content:center ;
+    color: white;
+    background: rgb(1,21,65);
+    background: linear-gradient(90deg, rgba(1,21,65,1) 8%, rgba(12,109,181,1) 73%);
+}
+.card {
+
+    margin-top: 500px;
+    margin-bottom: 300px;
+    width: 300px;
+    color: white;
+    background: rgb(1,21,65);
+    background: linear-gradient(90deg, rgba(1,21,65,1) 8%, rgba(12,109,181,1) 73%);
+}
+
+button {
+    
+    margin-bottom: 450px;
+    align-self: center;
+    
+}
+
+i {
+    size: 40px;
+}
+
+h1 {
+    margin-top: 300px;
+    text-align: center;
+}
+
+.image-rounder {
+
+    display: flex;
+    border-radius: 10px;
+    text-align: center;
+}
+
